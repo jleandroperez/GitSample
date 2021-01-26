@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Sample
-//
-//  Created by Lantean on 1/26/21.
-//
-
 import Cocoa
 
 @main

@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Sample
-//
-//  Created by Lantean on 1/26/21.
-//
-
 import Cocoa
 
 class ViewController: NSViewController {
