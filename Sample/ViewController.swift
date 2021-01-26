@@ -20,4 +20,3 @@ class ViewController: NSViewController {
         NSLog("Doing something!")
     }
 }
-
