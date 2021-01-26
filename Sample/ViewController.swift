@@ -22,5 +22,9 @@ class ViewController: NSViewController {
     }
 
 
+    @IBAction
+    func doSomething(_ sender: Any) {
+        NSLog("Doing something!")
+    }
 }
 
